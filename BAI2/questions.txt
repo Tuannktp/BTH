@@ -1,0 +1,42 @@
+Câu 1: Thành phần nào sau đây KHÔNG phải là một thành phần giao diện người dùng (UI) trong Android
+A. TextView
+B. Button
+C. Service
+D. ImageView
+Đáp án: C
+
+Câu 2: Layout nào thường được sử dụng để sắp xếp các thành phần UI theo chiều dọc hoặc chiều ngang
+A. RelativeLayout
+B. LinearLayout
+C. FrameLayout
+D. ConstraintLayout
+Đáp án: B
+
+Câu 3: Kiểu dữ liệu nào sau đây được sử dụng để lưu trữ giá trị đúng hoặc sai?
+A. int
+B. float
+C. String
+D. boolean
+Đáp án: D
+
+Câu 4: Fragment trong Android là gì?
+A. Một Activity con.
+B. Một thành phần UI có thể tái sử dụng.
+C. Một dịch vụ chạy nền.
+D. Một kiểu dữ liệu.
+Đáp án: B
+
+
+Câu 5: Thành phần nhỏ nhất cấu tạo nên bộ nhớ bán dẫn là:
+A. Ô nhớ (memory cell)
+B. Từ nhớ
+C. Ngăn nhớ
+D. Khối nhớ
+Đáp án: A
+
+Câu 6: Thành phần nào của máy tính thực hiện chức năng xử lý dữ liệu và điều khiền hoạt động của máy tính?
+A. Bộ nhớ chính
+B. Bộ phận nhập xuất thông tin
+C. CPU
+D. Bus hệ thống
+Đáp án: C
